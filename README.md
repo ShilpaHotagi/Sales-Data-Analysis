@@ -1,4 +1,5 @@
 Sales Data Analysis
+
 📌 Overview
 
 This project analyzes sales data using Python and SQL to extract meaningful insights.
@@ -11,11 +12,13 @@ Power BI (optional)
 Sales by Category
 Sales by Region
 Monthly Sales Trends
+
 🚀 How to Run
 Install libraries:
 pip install pandas matplotlib
 Run:
 python analysis.py
+
 👩‍💻 Author
 
 Shilpa Hotagi
